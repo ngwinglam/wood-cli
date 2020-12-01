@@ -1,4 +1,4 @@
-# wood-cli
+# Wood CLI
 
 ## Install
 ```

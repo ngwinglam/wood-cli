@@ -1,9 +1,9 @@
 {
-  "name": "@wood/cli",
+  "name": "wood-cli",
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "cli": "bin/index.js"
+    "wood": "bin/index.js"
   },
   "author": "ng.winglam@qq.com",
   "license": "ISC",
